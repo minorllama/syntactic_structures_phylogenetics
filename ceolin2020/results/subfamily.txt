@@ -1,0 +1,166 @@
+          /-Faroese
+         |
+         |          /-Danish
+         |         |
+         |---------|          /-English
+         |         |         |
+         |         |         |                    /-German
+         |          \--------|          /--------|
+---------|                   |         |         |          /-Welsh
+         |                   |         |          \--------|
+         |                    \--------|                    \-Icelandic
+         |                             |
+         |                             |          /-Dutch
+         |                              \--------|
+         |                                        \-Afrikaans
+         |
+          \-Norwegian
+('Afrikaans', 'Danish', 'Dutch', 'English', 'Faroese', 'German', 'Icelandic', 'Norwegian', 'Welsh')
+('Afrikaans', 'Danish', 'Dutch', 'English', 'Faroese', 'German', 'Icelandic', 'Norwegian', 'Welsh') 94 __index__
+                              /-Spanish
+                    /--------|
+                   |          \-Portuguese
+          /--------|
+         |         |          /-Romanian
+         |          \--------|
+         |                   |          /-French
+         |                    \--------|
+         |                             |          /-Parma
+         |                              \--------|
+         |                                        \-Casalasco
+         |
+         |                    /-Salentino
+         |          /--------|
+---------|         |         |          /-Greek Calabria 2
+         |         |          \--------|
+         |         |                   |          /-Greek Calabria 1
+         |---------|                    \--------|
+         |         |                              \-Greek
+         |         |
+         |         |          /-Siciliano Mussomeli
+         |          \--------|
+         |                    \-Calabrese Southern
+         |
+         |          /-Italian
+          \--------|
+                   |          /-Calabrese Northern
+                    \--------|
+                             |          /-Teramano
+                              \--------|
+                                        \-Campano
+('Calabrese_Northern', 'Calabrese_Southern', 'Campano', 'Casalasco', 'French', 'Greek', 'Greek_Calabria_1', 'Greek_Calabria_2', 'Italian', 'Parma', 'Portuguese', 'Romanian', 'Salentino', 'Siciliano_Mussomeli', 'Spanish', 'Teramano')
+('Calabrese_Northern', 'Calabrese_Southern', 'Campano', 'Casalasco', 'French', 'Greek', 'Greek_Calabria_1', 'Greek_Calabria_2', 'Italian', 'Parma', 'Portuguese', 'Romanian', 'Salentino', 'Siciliano_Mussomeli', 'Spanish', 'Teramano') 94 __index__
+                              /-Calabrese Northern
+                    /--------|
+                   |         |          /-Teramano
+                   |          \--------|
+          /--------|                    \-Campano
+         |         |
+         |         |          /-Italian
+         |          \--------|
+         |                   |          /-Parma
+         |                    \--------|
+         |                              \-Casalasco
+         |
+         |                              /-Spanish
+         |                    /--------|
+         |                   |          \-Portuguese
+         |                   |
+         |                   |                                        /-Danish
+         |                   |                              /--------|
+         |                   |                             |         |          /-Norwegian
+         |                   |                             |          \--------|
+         |                   |                             |                    \-Faroese
+         |                   |                    /--------|
+         |                   |                   |         |          /-English
+         |                   |                   |         |         |
+         |                   |                   |         |         |                    /-German
+         |                   |                   |          \--------|          /--------|
+         |          /--------|                   |                   |         |         |          /-Welsh
+         |         |         |                   |                   |         |          \--------|
+         |         |         |                   |                    \--------|                    \-Icelandic
+         |         |         |          /--------|                             |
+         |         |         |         |         |                             |          /-Dutch
+         |         |         |         |         |                              \--------|
+         |         |         |         |         |                                        \-Afrikaans
+---------|         |         |         |         |
+         |         |         |         |         |                    /-Greek Calabria 2
+         |         |         |         |         |          /--------|
+         |         |         |         |         |         |         |          /-Greek Calabria 1
+         |         |         |         |         |         |          \--------|
+         |         |         |         |          \--------|                    \-Greek
+         |         |          \--------|                   |
+         |         |                   |                   |          /-Bulgarian
+         |         |                   |                    \--------|
+         |---------|                   |                             |          /-Polish
+         |         |                   |                              \--------|
+         |         |                   |                                       |          /-Slovenian
+         |         |                   |                                        \--------|
+         |         |                   |                                                  \-Russian
+         |         |                   |
+         |         |                   |          /-Romanian
+         |         |                    \--------|
+         |         |                             |          /-French
+         |         |                              \--------|
+         |         |                                       |          /-Pashto
+         |         |                                        \--------|
+         |         |                                                 |          /-Marathi
+         |         |                                                  \--------|
+         |         |                                                            \-Hindi
+         |         |
+         |         |          /-Siciliano Mussomeli
+         |          \--------|
+         |                    \-Calabrese Southern
+         |
+          \-Salentino
+('Afrikaans', 'Bulgarian', 'Calabrese_Northern', 'Calabrese_Southern', 'Campano', 'Casalasco', 'Danish', 'Dutch', 'English', 'Faroese', 'French', 'German', 'Greek', 'Greek_Calabria_1', 'Greek_Calabria_2', 'Hindi', 'Icelandic', 'Italian', 'Marathi', 'Norwegian', 'Parma', 'Pashto', 'Polish', 'Portuguese', 'Romanian', 'Russian', 'Salentino', 'Siciliano_Mussomeli', 'Slovenian', 'Spanish', 'Teramano', 'Welsh')
+('Afrikaans', 'Bulgarian', 'Calabrese_Northern', 'Calabrese_Southern', 'Campano', 'Casalasco', 'Danish', 'Dutch', 'English', 'Faroese', 'French', 'German', 'Greek', 'Greek_Calabria_1', 'Greek_Calabria_2', 'Hindi', 'Icelandic', 'Italian', 'Marathi', 'Norwegian', 'Parma', 'Pashto', 'Polish', 'Portuguese', 'Romanian', 'Russian', 'Salentino', 'Siciliano_Mussomeli', 'Slovenian', 'Spanish', 'Teramano', 'Welsh') 94 __index__
+          /-Marathi
+         |
+         |          /-Hindi
+         |---------|
+---------|         |          /-Telugu
+         |          \--------|
+         |                    \-Tamil
+         |
+          \-Pashto
+('Hindi', 'Marathi', 'Pashto', 'Tamil', 'Telugu')
+('Hindi', 'Marathi', 'Pashto', 'Tamil', 'Telugu') 94 __index__
+          /-Bulgarian
+         |
+         |          /-Russian
+---------|---------|
+         |          \-Polish
+         |
+          \-Slovenian
+('Bulgarian', 'Polish', 'Russian', 'Slovenian')
+('Bulgarian', 'Polish', 'Russian', 'Slovenian') 94 __index__
+          /-Evenki
+         |
+         |                    /-Buryat
+         |                   |
+         |          /--------|          /-Mari 1
+         |         |         |         |
+         |         |          \--------|          /-Udmurt 1
+         |         |                   |         |
+         |         |                   |         |                    /-Hungarian
+         |         |                    \--------|          /--------|
+         |         |                             |         |         |          /-Khanty 2
+         |         |                             |         |          \--------|
+         |         |                              \--------|                    \-Khanty 1
+---------|---------|                                       |
+         |         |                                       |          /-Mari 2
+         |         |                                        \--------|
+         |         |                                                 |          /-Udmurt 2
+         |         |                                                  \--------|
+         |         |                                                           |          /-Finnish
+         |         |                                                            \--------|
+         |         |                                                                      \-Estonian
+         |         |
+         |         |          /-Yakut
+         |          \--------|
+         |                    \-Turkish
+         |
+          \-Uzbek
+('Buryat', 'Estonian', 'Evenki', 'Finnish', 'Hungarian', 'Khanty_1', 'Khanty_2', 'Mari_1', 'Mari_2', 'Turkish', 'Udmurt_1', 'Udmurt_2', 'Uzbek', 'Yakut')
+('Buryat', 'Estonian', 'Evenki', 'Finnish', 'Hungarian', 'Khanty_1', 'Khanty_2', 'Mari_1', 'Mari_2', 'Turkish', 'Udmurt_1', 'Udmurt_2', 'Uzbek', 'Yakut') 94 __index__

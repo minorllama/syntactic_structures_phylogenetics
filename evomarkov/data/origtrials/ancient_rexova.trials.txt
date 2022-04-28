@@ -1,0 +1,149 @@
+# tree  [ tocharian_a  [ hittite  [ greek albanian ]  ]  western_armenian ] 
+
+          /-tocharian a
+         |
+         |          /-hittite
+         |---------|
+---------|         |          /-greek
+         |          \--------|
+         |                    \-albanian
+         |
+          \-western armenian
+z=0:k=19 actual=12 allset=22 %=0.5454545454545454 
+#[0, 1, 3, 4, 5, 6, 7, 8, 12, 15, 19, 20]
+
+
+# tree  [ tocharian_a  [ hittite  [ greek albanian ]  ]  western_armenian ] 
+
+          /-tocharian a
+         |
+         |          /-hittite
+         |---------|
+---------|         |          /-greek
+         |          \--------|
+         |                    \-albanian
+         |
+          \-western armenian
+z=1:k=19 actual=13 allset=22 %=0.5909090909090909 
+#[1, 2, 3, 4, 6, 7, 8, 12, 13, 15, 17, 19, 20]
+
+
+# tree  [ tocharian_a  [ hittite  [ greek albanian ]  ]  western_armenian ] 
+
+          /-tocharian a
+         |
+         |          /-hittite
+         |---------|
+---------|         |          /-greek
+         |          \--------|
+         |                    \-albanian
+         |
+          \-western armenian
+z=2:k=19 actual=10 allset=22 %=0.45454545454545453 
+#[2, 5, 6, 8, 15, 17, 18, 19, 20, 21]
+
+
+# tree  [ tocharian_a  [ hittite  [ greek albanian ]  ]  western_armenian ] 
+
+          /-tocharian a
+         |
+         |          /-hittite
+         |---------|
+---------|         |          /-greek
+         |          \--------|
+         |                    \-albanian
+         |
+          \-western armenian
+z=3:k=19 actual=11 allset=22 %=0.5 
+#[1, 2, 4, 5, 8, 13, 15, 17, 18, 20, 21]
+
+
+# tree  [  [ greek albanian ]   [ tocharian_a hittite ]  western_armenian ] 
+
+                    /-greek
+          /--------|
+         |          \-albanian
+         |
+---------|          /-tocharian a
+         |---------|
+         |          \-hittite
+         |
+          \-western armenian
+z=4:k=19 actual=11 allset=22 %=0.5 
+#[0, 1, 2, 5, 6, 12, 17, 18, 19, 20, 21]
+
+
+# tree  [ tocharian_a  [ hittite  [ greek albanian ]  ]  western_armenian ] 
+
+          /-tocharian a
+         |
+         |          /-hittite
+         |---------|
+---------|         |          /-greek
+         |          \--------|
+         |                    \-albanian
+         |
+          \-western armenian
+z=5:k=19 actual=11 allset=22 %=0.5 
+#[0, 1, 2, 3, 4, 5, 8, 12, 15, 17, 20]
+
+
+# tree  [ tocharian_a  [ hittite  [ greek albanian ]  ]  western_armenian ] 
+
+          /-tocharian a
+         |
+         |          /-hittite
+         |---------|
+---------|         |          /-greek
+         |          \--------|
+         |                    \-albanian
+         |
+          \-western armenian
+z=6:k=19 actual=11 allset=22 %=0.5 
+#[0, 1, 2, 6, 7, 8, 12, 15, 17, 18, 21]
+
+
+# tree  [ tocharian_a  [ hittite  [ greek albanian ]  ]  western_armenian ] 
+
+          /-tocharian a
+         |
+         |          /-hittite
+         |---------|
+---------|         |          /-greek
+         |          \--------|
+         |                    \-albanian
+         |
+          \-western armenian
+z=7:k=19 actual=11 allset=22 %=0.5 
+#[0, 3, 4, 5, 6, 7, 8, 15, 18, 19, 21]
+
+
+# tree  [ tocharian_a  [ hittite  [ greek albanian ]  ]  western_armenian ] 
+
+          /-tocharian a
+         |
+         |          /-hittite
+         |---------|
+---------|         |          /-greek
+         |          \--------|
+         |                    \-albanian
+         |
+          \-western armenian
+z=8:k=19 actual=12 allset=22 %=0.5454545454545454 
+#[0, 1, 2, 3, 4, 5, 8, 12, 13, 17, 19, 21]
+
+
+# tree  [ tocharian_a  [ hittite  [ greek albanian ]  ]  western_armenian ] 
+
+          /-tocharian a
+         |
+         |          /-hittite
+         |---------|
+---------|         |          /-greek
+         |          \--------|
+         |                    \-albanian
+         |
+          \-western armenian
+z=9:k=19 actual=13 allset=22 %=0.5909090909090909 
+#[0, 1, 5, 6, 8, 12, 13, 15, 17, 18, 19, 20, 21]
+

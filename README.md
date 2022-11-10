@@ -10,7 +10,6 @@ The initial analysis can be run with:
 
     syntactic_structures_phylogenetics/evomarkov$ ./phylotrees3.sh 
 
-
 In `evomarkov`, the following command does the subsampling analysis
     
     python trees.py <langfamily> -v -explore -skbio
@@ -23,7 +22,6 @@ For the romance family likelihood analyis, use
 
 See the individual scripts for options available. 
 
-
 The following packages will be required: 
 
     biopython 1.79    
@@ -32,6 +30,13 @@ The following packages will be required:
     pandas 1.3.4        
     scikit-bio 0.5.6         
     scipy 1.7.1
+
+With `python 3.9.7`, `conda 4.11.0`, the following setup should work: 
+
+    conda install -c bioconda/label/cf201901 dendropy
+    conda install -c etetoolkit ete3
+    conda install -c conda-forge biopython
+    conda install -c https://conda.anaconda.org/biocore scikit-bio
 
 The raw syntactic structures data is available [here](evomarkov/raw). See [this](evomarkov/parsed/translate.json) for language codes used in the data.  
 

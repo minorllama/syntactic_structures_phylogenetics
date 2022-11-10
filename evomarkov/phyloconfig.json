@@ -1,0 +1,135 @@
+{
+	"ancient":{
+		"family": "ancient", 
+		"tsv" : {
+			"sep":"\t",
+    		"file": "./syntactic_tables/ancient_langs.tsv",
+   			"langs": {
+    		    "to": "TocharianA",
+       			"hi": "Hittite",
+  			    "al": "Albanian",
+     			"ar": "Armenian",
+		        "gr": "Greek"
+  			  }
+		},
+
+		"langs":{
+			"hittite":"hi",
+			"tocharian_a":"to",
+			"albanian":"al",
+			"western_armenian":"ar",
+			"ancient_greek":"gr"
+		},
+		"db":["sswl"],
+		"warnow": {
+			"tag" : "warnow", 
+			"leaves" : ["hi", "to", "al", "ar", "gr"], 
+			"bipartitions" : [
+				[["hi", "to"], ["al", "ar", "gr"]],
+				[["hi", "to", "al" ], ["ar", "gr"]]
+			]
+		},
+		"logdet" : {
+			"tag": "logdet",
+			"leaves" : ["hi", "to", "ar", "al", "gr"],
+			"bipartitions" : [
+				[["hi", "to"],["ar", "al", "gr"]],
+				[["hi", "to", "ar"],["al", "gr"]]
+			]
+		},
+                "logdet2" : {
+                        "tag": "logdet2",
+                        "leaves" : ["ar", "al", "gr", "hi", "to"],
+                        "bipartitions" : [
+                                [["ar", "hi", "to"], ["al", "gr"]],
+                                [["ar", "to"],["al", "gr", "hi"]]
+                        ]
+                },
+
+		"bouck": {
+			"tag" : "bouck",
+			"leaves": ["hi", "to", "ar", "al", "gr"],
+			"bipartitions" : [
+				[["hi", "to", "ar"], ["al", "gr"]],
+				[["hi", "al", "gr" ], ["to", "ar"]]
+			]
+		},
+
+
+
+        "rexova": {
+            "tag" : "rexova",
+            "leaves": ["hi", "to", "ar", "al", "gr"],
+            "bipartitions" : [
+                [["hi", "to", "ar"], ["al"  , "gr"]],
+                [["hi", "al", "gr" ], ["to", "ar"]]
+            ]
+        }
+
+
+
+	},
+	"uralic":{
+		"family" : "uralic",
+		"langs" : {"fin":"fin", "estonian":"est", "hungarian":"hun", "khanty":"kha", "udmurt":"udm"},
+		"db":["longo"],
+		"analysis":["historical", "logdet"],
+		"historical":{"tree":[[["kha", "hun"], "udm"], ["est", "fin"]]},
+		"logdet":{"tree" :[["kha", ["hun", "udm"]], ["est", "fin"]]}
+
+	},
+
+        "slavic":{
+                "family" : "slavic",
+                "langs" : {"fin":"fin", "estonian":"est", "hungarian":"hun", "khanty":"kha", "udmurt":"udm"},
+                "db":["longo"],
+                "analysis":["historical", "logdet"],
+                "historical":{"tree":[[["kha", "hun"], "udm"], ["est", "fin"]]},
+                "logdet":{"tree" :[["kha", ["hun", "udm"]], ["est", "fin"]]}
+
+        },
+
+    "germanic6":{
+		"family" : "germanic6",
+        "langs": {"D":"D", "G":"G", "E":"E", "F":"F", "I":"I", "S":"S"},
+        "db":["sswl"],
+		"tsv": { "sep":" ", "file": "./syntactic_tables/germanic6_2.tsv", "langs" : {"D":"D", "G":"G", "E":"E", "F":"F", "I":"I", "S":"S"}},
+        "historical":{
+            "tag":"historical",
+            "leaves":["D", "E", "G", "F", "I", "S"],
+            "bipartitions_all": [
+                            [["D", "G"], ["E", "F", "I", "S"]],
+                            [["D", "G", "S"], ["E", "F", "I"]],
+                            [["D", "G", "E", "S"], ["F", "I"]]
+            ],
+            "bipartitions": [
+                            [["D", "G", "S"], ["E", "F", "I"]]
+            ]
+        }
+    },
+
+	"romance":{
+		"langs": {"latin":"la", "romanian":"ro", "italian":"it", "french":"fr", "spanish":"sp", "portuguese":"po"},
+		"db":["longo","sswl"],
+		"family": "romance",
+		"historical":{
+			"tag":"historical",
+			"leaves":["la", "ro", "it", "fr", "sp", "po"],
+			"bipartitions": [
+							[["la", "ro"], ["it", "fr", "sp", "po"]],
+							[["la", "ro", "it"], ["fr", "sp", "po"]],
+							[["la", "ro", "it", "fr"], ["sp", "po"]]
+							]
+		},
+        "logdet":{
+            "tag":"logdet",
+            "leaves":["la", "ro",  "sp", "it", "fr", "po"],
+            "bipartitions": [
+                            [["la", "ro"], ["sp", "it", "fr", "po"]],
+                            [["la", "ro", "sp"], ["it", "fr", "po"]],
+                            [["la", "ro", "sp", "it"], ["fr", "po"]]
+                            ]
+        }
+
+	}
+}

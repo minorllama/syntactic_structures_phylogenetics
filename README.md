@@ -11,7 +11,7 @@ The initial analysis can be run with:
     syntactic_structures_phylogenetics/evomarkov$ ./phylotrees3.sh 
 
 
-The following command does the subsampling analysis
+In `evomarkov`, the following command does the subsampling analysis
     
     python trees.py <langfamily> -v -explore -skbio
 
@@ -33,9 +33,7 @@ The following packages will be required:
     scikit-bio 0.5.6         
     scipy 1.7.1
 
-The raw syntactic structures data is available at: 
-
-    evomarkov/raw
+The raw syntactic structures data is available [here](evomarkov/raw). 
 
 
 

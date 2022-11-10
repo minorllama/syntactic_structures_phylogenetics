@@ -1,0 +1,30 @@
+{
+	"param_subsampling" : [0.90, 0.60],
+	"codes": {"buryat": "Bu", "estonian": "Est", "even": "Evn", "evenki": "Eki", "fin": "Fi", "french": "Fr", "hungarian": "Hu", "italian": "It", "khanty": "Kh", "latin": "La", "portuguese": "Por", "romanian": "Rom", "spanish": "Sp", "turkish": "Tur", "udmurt": "Ud", "yakut": "Ya", "yukaghir": "Yu"},
+	"fix_updated_params": 1,
+	"analysis": [
+		{"family":"romance", "analysis_type": ["sswl", "longo"]},
+		{"family":"altaic-uralic", "analysis_type": ["longo"]},
+		{"family":"uralic_small", "analysis_type": ["longo"]},
+		{"family":"germanic", "analysis_type": ["sswl"]},
+		{"family":"germanic+out", "analysis_type": ["sswl"]},
+		{"family":"slavic_no_slovenian", "analysis_type": ["sswl", "longo"]},
+		{"family":"slavic_no_slovenian", "analysis_type": ["longo"]},
+		{"family":"slavic_no_slovenian", "analysis_type": ["sswl"]},
+		{"family":"slavic", "analysis_type": ["sswl", "longo"]},
+		{"family":"slavic", "analysis_type": ["longo"]},
+		{"family":"slavic", "analysis_type": ["sswl"]},
+		{"family":"ancient", "analysis_type": ["sswl"]}
+	],  
+	"langs" : {
+		"germanic+out": ["dutch", "german", "english", "faroese", "icelandic", "swedish", "latin"],
+		"ancient": ["hittite", "tocharian_a", "albanian", "western_armenian", "greek"],
+		"ancient_w_toc_b": ["albanian", "western_armenian", "greek", "tocharian_b", "hittite"],
+		"germanic": ["dutch", "german", "english", "faroese", "icelandic", "swedish"],
+		"slavic_no_slovenian" :["russian", "polish", "serb-croatian", "bulgarian"],
+		"slavic" :["russian", "polish", "slovenian", "serb-croatian", "bulgarian"],
+		"altaic-uralic": ["fin", "estonian", "hungarian", "khanty", "udmurt", "yukaghir", "turkish", "buryat", "yakut", "even", "evenki"],
+		"uralic_small" : ["fin", "estonian", "hungarian", "khanty", "udmurt"],
+		"romance" : ["latin", "romanian", "italian", "french", "spanish", "portuguese"]
+	}
+}

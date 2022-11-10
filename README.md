@@ -33,7 +33,7 @@ The following packages will be required:
     scikit-bio 0.5.6         
     scipy 1.7.1
 
-The raw syntactic structures data is available [here](evomarkov/raw). 
+The raw syntactic structures data is available [here](evomarkov/raw). See [this](syntactic_structures_phylogenetics/blob/main/evomarkov/parsed/translate.json) for language codes used in the data.  
 
 Please open an issue if you have questions about reproducing a computation included in the article. This document will be updated in response as well. 
 

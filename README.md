@@ -35,5 +35,5 @@ The following packages will be required:
 
 The raw syntactic structures data is available [here](evomarkov/raw). 
 
-
+Please open an issue if you have questions about reproducing a computation included in the article. This document will be updated in response as well. 
 
